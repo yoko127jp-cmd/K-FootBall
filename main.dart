@@ -147,7 +147,7 @@ class _LiveScoresScreenState extends State<LiveScoresScreen> {
 class StandingsScreen extends StatelessWidget {
   const StandingsScreen({super.key});
 
-  @appTableData()
+  
   @override
   Widget build(BuildContext context) {
     return ListView(
